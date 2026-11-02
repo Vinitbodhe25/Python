@@ -1,5 +1,0 @@
-data = set()
-if data:
-    print("Set is not empty")
-else:
-    print("Set is empty")
