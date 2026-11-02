@@ -1,1 +1,1 @@
-printf "streamlit\n"
+printf "flask\ngunicorn\n"
